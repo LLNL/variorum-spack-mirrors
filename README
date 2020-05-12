@@ -1,0 +1,6 @@
+VARIORUM MIRRORS
+================
+
+This repository contains the spack mirrors of variorum's dependencies. These
+mirrors are used in variorum's CI on travis, specifically to install the hwloc
+dependency.
